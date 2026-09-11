@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="50%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#050811"/>
+    </linearGradient>
+
+    <!-- Card Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="35%" stop-color="#6366f1" stop-opacity="0.3"/>
+      <stop offset="70%" stop-color="#818cf8" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.5"/>
+    </linearGradient>
+
+    <!-- Name Text Gradient -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="45%" stop-color="#e0f2fe"/>
+      <stop offset="80%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <!-- Accent Line Gradient -->
+    <linearGradient id="accentLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="1"/>
+      <stop offset="75%" stop-color="#6366f1" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="cyanGlow" cx="15%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="indigoGlow" cx="85%" cy="70%" r="55%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#090d16" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1e293b" stroke-width="0.75" stroke-opacity="0.35"/>
+      <circle cx="32" cy="0" r="1" fill="#38bdf8" fill-opacity="0.3"/>
+    </pattern>
+
+    <!-- Pill Gradient -->
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#1e1b4b" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <!-- Filters -->
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseLive {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.92); }
+    }
+    @keyframes beaconGlow {
+      0%, 100% { r: 4px; opacity: 0.8; }
+      50% { r: 8px; opacity: 0.2; }
+    }
+    .status-pulse {
+      animation: pulseLive 2.4s ease-in-out infinite;
+      transform-origin: 730px 42px;
+    }
+    .beacon {
+      animation: beaconGlow 2.4s ease-in-out infinite;
+      transform-origin: 730px 42px;
+    }
+    .hud-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+    .mono-font {
+      font-family: 'JetBrains Mono', 'SF Mono', Consolas, 'Fira Code', monospace;
+    }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="896" height="276" rx="16" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Grid Layer -->
+  <rect x="2" y="2" width="896" height="276" rx="16" fill="url(#grid)"/>
+
+  <!-- Ambient Light Orbs -->
+  <rect x="2" y="2" width="896" height="276" rx="16" fill="url(#cyanGlow)"/>
+  <rect x="2" y="2" width="896" height="276" rx="16" fill="url(#indigoGlow)"/>
+  <rect x="2" y="2" width="896" height="276" rx="16" fill="url(#centerGlow)"/>
+
+  <!-- Decorative Circuit Corner Accents -->
+  <path d="M 24 45 L 24 24 L 45 24" fill="none" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.7"/>
+  <circle cx="45" cy="24" r="2.5" fill="#38bdf8"/>
+  <path d="M 876 235 L 876 256 L 855 256" fill="none" stroke="#6366f1" stroke-width="2" stroke-opacity="0.7"/>
+  <circle cx="855" cy="256" r="2.5" fill="#6366f1"/>
+
+  <!-- Top System Telemetry HUD Bar -->
+  <g transform="translate(48, 46)">
+    <!-- Terminal prompt tag -->
+    <rect x="0" y="-14" width="168" height="26" rx="13" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text x="14" y="3" class="mono-font" font-size="11" font-weight="600" fill="#38bdf8" letter-spacing="1">DEV_PORTFOLIO // v2.6</text>
+  </g>
+
+  <!-- Live Status Beacon Badge (Top Right) -->
+  <g transform="translate(620, 46)">
+    <rect x="0" y="-14" width="232" height="26" rx="13" fill="#091322" stroke="#0ea5e9" stroke-opacity="0.3" stroke-width="1"/>
+    <circle cx="18" cy="-1" class="beacon" r="6" fill="#38bdf8"/>
+    <circle cx="18" cy="-1" class="status-pulse" r="3.5" fill="#22d3ee"/>
+    <text x="32" y="3" class="mono-font" font-size="11" font-weight="500" fill="#94a3b8" letter-spacing="0.5">STATUS: <tspan fill="#38bdf8" font-weight="700">OPEN FOR ROLES</tspan></text>
+  </g>
+
+  <!-- Main Hero Title -->
+  <text x="48" y="118" class="hud-title" font-size="44" fill="url(#titleGrad)">Praveen Verma</text>
+
+  <!-- Subtle Accent Light Rule -->
+  <rect x="48" y="134" width="804" height="2" fill="url(#accentLineGrad)"/>
+
+  <!-- Professional Subtitle -->
+  <text x="48" y="168" class="hud-title" font-size="17" font-weight="600" fill="#e2e8f0" letter-spacing="0.2">
+    Full Stack Software Engineer <tspan fill="#64748b">|</tspan> <tspan fill="#38bdf8">MERN &amp; Distributed Web Systems</tspan> <tspan fill="#64748b">|</tspan> <tspan fill="#a5b4fc">400+ DSA</tspan>
+  </text>
+
+  <!-- Core Philosophy / Tagline -->
+  <text x="48" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#94a3b8">
+    Architecting resilient, production-grade applications with secure APIs, optimized databases &amp; responsive interfaces.
+  </text>
+
+  <!-- Bottom Technology Chips / Badges -->
+  <g transform="translate(48, 222)">
+    <!-- Chip 1 -->
+    <rect x="0" y="0" width="86" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="12" cy="13" r="3" fill="#38bdf8"/>
+    <text x="22" y="17" class="mono-font" font-size="11.5" font-weight="600" fill="#cbd5e1">React.js</text>
+
+    <!-- Chip 2 -->
+    <rect x="94" y="0" width="94" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="106" cy="13" r="3" fill="#22c55e"/>
+    <text x="116" y="17" class="mono-font" font-size="11.5" font-weight="600" fill="#cbd5e1">Node.js</text>
+
+    <!-- Chip 3 -->
+    <rect x="196" y="0" width="94" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="208" cy="13" r="3" fill="#e2e8f0"/>
+    <text x="218" y="17" class="mono-font" font-size="11.5" font-weight="600" fill="#cbd5e1">Express</text>
+
+    <!-- Chip 4 -->
+    <rect x="298" y="0" width="98" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="310" cy="13" r="3" fill="#10b981"/>
+    <text x="320" y="17" class="mono-font" font-size="11.5" font-weight="600" fill="#cbd5e1">MongoDB</text>
+
+    <!-- Chip 5 -->
+    <rect x="404" y="0" width="108" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="416" cy="13" r="3" fill="#60a5fa"/>
+    <text x="426" y="17" class="mono-font" font-size="11.5" font-weight="600" fill="#cbd5e1">TypeScript</text>
+
+    <!-- Chip 6 -->
+    <rect x="520" y="0" width="124" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="532" cy="13" r="3" fill="#818cf8"/>
+    <text x="542" y="17" class="mono-font" font-size="11.5" font-weight="600" fill="#cbd5e1">Razorpay API</text>
+
+    <!-- Chip 7 -->
+    <rect x="652" y="0" width="122" height="26" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="664" cy="13" r="3" fill="#c084fc"/>
+    <text x="674" y="17" class="mono-font" font-size="11.5" font-weight="600" fill="#cbd5e1">REST &amp; RBAC</text>
+  </g>
+</svg>
