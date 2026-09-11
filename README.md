@@ -1,432 +1,367 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  PRAVEEN VERMA  ·  FULL STACK SOFTWARE ENGINEER                    -->
-<!--  Theme: Obsidian Glass · Electric Cyan · Aurora Purple             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e1b4b,100:38bdf8&height=220&section=header&text=Praveen%20Verma&fontSize=48&fontColor=e0f2fe&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20MERN%20Architect%20%7C%20400%2B%20DSA&descSize=16&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/praveenstp09">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=680&height=45&lines=Full+Stack+MERN+Architect+%7C+REST+APIs+%26+RBAC;Engineering+Production-Grade+Scalable+Web+Systems;400%2B+DSA+Problems+%7C+LeetCode+%26+CodeChef;Optimizing+Databases+%7C+Compound+Indexes+%26+Aggregation" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,38bdf8,6366f1,a855f7&height=120&section=header&text=Praveen%20Verma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=16"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-38bdf8?style=for-the-badge&labelColor=090d16" alt="Degree" />
+  <img src="https://img.shields.io/badge/AKGEC-Ghaziabad%20%7C%202022--2026-6366f1?style=for-the-badge&labelColor=090d16" alt="University" />
+</p>
 
-<!-- Profile avatar -->
-<img src="https://github.com/praveenstp09.png" width="130" height="130" alt="Praveen Verma"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Noida,_Uttar_Pradesh-818cf8?style=flat-square" alt="Location" />
+</p>
 
-<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/praveen-verma-b90333282/"><img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:praveenverma0933@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/praveenstp09/"><img src="https://img.shields.io/badge/LeetCode-400%2B_Solved-818cf8?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://github.com/praveenstp09"><img src="https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<!-- Hero Banner -->
-<a href="https://github.com/praveenstp09">
-  <img src="./assets/hero-banner.svg" alt="Praveen Verma — Full Stack Engineer" width="100%"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praveenstp09&style=flat-square&color=38bdf8&label=Profile+Views" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/praveenstp09?style=flat-square&color=6366f1&labelColor=090d16&label=Followers" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/praveenstp09?style=flat-square&color=818cf8&labelColor=090d16&label=Stars" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-06b6d4?style=flat-square&labelColor=090d16" alt="Status" />
+</p>
 
-<!-- Typing animation -->
-<a href="https://github.com/praveenstp09">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&background=090D1600&center=true&vCenter=true&repeat=true&width=700&height=44&lines=Full+Stack+MERN+Architect+%7C+REST+APIs+%26+RBAC;Engineering+Production-Grade+Scalable+Web+Systems;400%2B+DSA+Problems+%7C+LeetCode+%26+CodeChef;Optimizing+Databases+%7C+Compound+Indexes+%26+Aggregation" alt="Typing animation"/>
-</a>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<br>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-<!-- Social badges row -->
-<a href="mailto:praveenverma0933@gmail.com"><img src="https://img.shields.io/badge/Email-praveenverma0933%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=090d16"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/praveen-verma-b90333282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=090d16"/></a>
-&nbsp;
-<a href="https://leetcode.com/u/praveenstp09/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-400%2B_Solved-0f172a?style=for-the-badge&logo=leetcode&logoColor=f59e0b&labelColor=090d16"/></a>
-&nbsp;
-<a href="https://github.com/praveenstp09"><img src="https://img.shields.io/badge/GitHub-praveenstp09-0f172a?style=for-the-badge&logo=github&logoColor=e2e8f0&labelColor=090d16"/></a>
+<img align="right" src="https://img.shields.io/badge/CGPA-8.15-38bdf8?style=for-the-badge&labelColor=090d16" alt="CGPA" />
 
-<br><br>
-
-<!-- Live metrics strip -->
-<img src="https://komarev.com/ghpvc/?username=praveenstp09&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/praveenstp09?style=for-the-badge&color=818cf8&labelColor=090d16&label=FOLLOWERS"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-06b6d4?style=for-the-badge&labelColor=090d16"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LOCATION-Noida%2C_India-6366f1?style=for-the-badge&labelColor=090d16"/>
-
-</div>
-
-<img src="./assets/cyber-divider.svg" width="100%" alt="divider"/>
-
-<!-- ═══ QUICK STATS BENTO GRID ═══ -->
-
-<div align="center">
-
-### ⚡ At a Glance
-
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="36"/><br>
-<b>Education</b><br>
-<sub>B.Tech CSE @ AKGEC</sub><br>
-<code>CGPA 8.15 · 2026</code>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/fluency/48/brain.png" width="36"/><br>
-<b>DSA Mastery</b><br>
-<sub>LeetCode & CodeChef</sub><br>
-<code>400+ Problems Solved</code>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/fluency/48/code.png" width="36"/><br>
-<b>Specialization</b><br>
-<sub>MERN · REST · RBAC</sub><br>
-<code>Full Stack Engineer</code>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/fluency/48/briefcase.png" width="36"/><br>
-<b>Experience</b><br>
-<sub>Dvertex Info System</sub><br>
-<code>Full Stack Intern</code>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="./assets/cyber-divider.svg" width="100%" alt="divider"/>
-
-<!-- ═══ ABOUT ME ═══ -->
-
-<img src="./assets/header-about.svg" width="100%" alt="About Me"/>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
-> *"I architect resilient, high-throughput full-stack systems that translate complex logic into seamless, high-performance products."*
-
-I'm a **Full Stack Software Engineer** specializing in the **MERN ecosystem** — React.js, Node.js, Express.js, and MongoDB. With hands-on experience shipping features on the live **Safai Mitra** platform at **Dvertex Info System**, I build maintainable frontends and resilient, test-driven backends.
-
-**What sets me apart:**
-
-| | |
-|:---|:---|
-| 🏗️ **Production Systems** | Live data-filter engines, async state machines, reusable UI libraries |
-| 🔐 **FinTech & Security** | Razorpay + HMAC-SHA256 webhooks, coupon engines, RBAC |
-| ⚡ **Database Performance** | Compound indexes, aggregation pipelines, query optimization |
-| 🧠 **Algorithmic Rigor** | 400+ DSA problems — graphs, DP, binary search |
-
-</td>
-<td width="35%" valign="top" align="center">
-
-```yaml
-name: Praveen Verma
-role: Full Stack Engineer
-location: Noida, UP 🇮🇳
-education: B.Tech CSE @ AKGEC
-status: Open to Work
-graduating: May 2026
-
-currently:
-  - PharmaCode07 v2.0
-  - WebSocket proctoring
-  - Storybook UI library
-
-interests:
-  - Distributed systems
-  - Microservices
-  - Next.js SSR
+```text
+🏗️  Full Stack Developer with hands-on experience in React, Node.js, Express & MongoDB
+🔐  FinTech integrations — Razorpay webhooks, HMAC-SHA256, RBAC & JWT authentication
+🎯  Product-minded engineer focused on scalable architecture and clean UX
+🧠  400+ DSA problems solved across LeetCode & CodeChef
+🚀  Building production-grade systems that serve real users at scale
 ```
 
+**`Full Stack Software Engineer`** specializing in the **MERN ecosystem** — React.js, Node.js, Express.js, and MongoDB. With hands-on internship experience shipping features on the live **Safai Mitra** platform at **Dvertex Info System**, I build maintainable frontends and resilient, test-driven backend architectures.
+
+From engineering **EdTech CBT platforms** with real-time test engines to building **high-performance e-commerce** with compound-indexed MongoDB queries — I build software that solves real problems with production-grade quality.
+
+<br>
+
+> **Open To:** Full-Time SDE Roles · Full Stack Development · Backend Roles · Open Source Collaboration · Graduating May 2026
+
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="160"><b>Languages</b></td>
+<td>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,cs,c&theme=dark" alt="Languages" />
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="160"><b>Frontend</b></td>
+<td>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="160"><b>Backend & Databases</b></td>
+<td>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,graphql&theme=dark" alt="Backend & Databases" />
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="160"><b>Cloud, DevOps & Tooling</b></td>
+<td>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,dotnet&theme=dark" alt="Cloud, DevOps & Tooling" />
+  </a>
 </td>
 </tr>
 </table>
 
-<img src="./assets/cyber-divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<!-- ═══ TECH STACK ═══ -->
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"> &nbsp;Development Expertise
 
-<img src="./assets/header-tech.svg" width="100%" alt="Tech Stack"/>
-
-<br>
-
-<div align="center">
-
-<!-- Animated skill icons -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,java,cpp,git,github,postman,tailwind,html,css,vscode,vercel&theme=dark&perline=9"/>
-</a>
-
-</div>
-
-<br>
-
-<table width="100%">
+<table align="center">
 <thead>
 <tr>
-<th align="left">Domain</th>
-<th align="left">Stack</th>
-<th align="left">Expertise</th>
+<th>Domain</th>
+<th>Proficiency</th>
+<th>Details</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><b>🖥️ Frontend</b></td>
-<td>React.js · Next.js · Tailwind · Bootstrap · Context API</td>
-<td>Component modularity · Responsive UI · Storybook</td>
+<td><b>Frontend Development</b></td>
+<td>⬛⬛⬛⬛⬛</td>
+<td>React.js, Next.js, Tailwind CSS, Responsive UI, Context API, Storybook</td>
 </tr>
 <tr>
-<td><b>⚙️ Backend</b></td>
-<td>Node.js · Express · ASP.NET Core · GraphQL · JWT</td>
-<td>REST APIs · Auth chains · Webhook processors</td>
+<td><b>Backend Development</b></td>
+<td>⬛⬛⬛⬛⬜</td>
+<td>Node.js, Express.js, REST APIs, ASP.NET Core, JWT Authentication, RBAC</td>
 </tr>
 <tr>
-<td><b>🗄️ Databases</b></td>
-<td>MongoDB · PostgreSQL · MySQL</td>
-<td>Schema design · Compound indexes · Aggregations</td>
+<td><b>Database & Storage</b></td>
+<td>⬛⬛⬛⬛⬜</td>
+<td>MongoDB, PostgreSQL, MySQL — schema design, compound indexes & aggregation pipelines</td>
 </tr>
 <tr>
-<td><b>🛠️ DevOps & Tools</b></td>
-<td>Git · GitHub · Postman · Vercel · Render · Cloudinary</td>
-<td>CI/CD · CDN pipelines · API testing suites</td>
+<td><b>FinTech & Security</b></td>
+<td>⬛⬛⬛⬛⬜</td>
+<td>Razorpay integration, HMAC-SHA256 webhooks, JWT, BCrypt hashing, RBAC</td>
+</tr>
+<tr>
+<td><b>DevOps & Deployment</b></td>
+<td>⬛⬛⬛⬜⬜</td>
+<td>Git, GitHub Actions, Vercel, Render, Cloudinary CDN — CI/CD & cloud deployment</td>
 </tr>
 </tbody>
 </table>
 
-<img src="./assets/cyber-divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<!-- ═══ PROJECTS ═══ -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Featured Projects
 
-<img src="./assets/header-projects.svg" width="100%" alt="Projects"/>
-
-<br>
-
-<!-- Project 1 -->
 <details open>
-<summary>
-<b>🧪 PharmaCode07</b> — Full Stack EdTech & CBT Exam Platform
-<img src="https://img.shields.io/badge/FLAGSHIP-SAAS-38bdf8?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-Node-MongoDB-818cf8?style=flat-square"/>
-</summary>
+<summary><b>🧪 PharmaCode07 — Full Stack EdTech & CBT Exam Platform</b></summary>
 <br>
+
+> An enterprise-grade EdTech and Computer-Based Testing (CBT) platform delivering interactive test series, structured study notes, and curated model papers with automated assessment pipelines.
 
 <table>
-<tr><td colspan="2">Enterprise-grade EdTech platform with interactive test series, study notes, model papers, and automated assessment pipelines.</td></tr>
-<tr><td width="18%"><b>Stack</b></td><td><code>React.js</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>Razorpay</code> · <code>Cloudinary</code></td></tr>
-<tr><td><b>Highlights</b></td><td>
-⚡ Real-time CBT engine with timers & auto-grading<br>
-💳 Razorpay + HMAC-SHA256 webhook verification<br>
-🎛️ Admin content studio with bulk MCQ parser & RBAC
-</td></tr>
-<tr><td><b>Links</b></td><td>
-<a href="https://github.com/praveenstp09/Pharmacode07"><img src="https://img.shields.io/badge/Repository-View_Code-38bdf8?style=for-the-badge&logo=github"/></a>
-&nbsp;
-<a href="https://github.com/praveenstp09/Pharmacode07"><img src="https://img.shields.io/badge/Live_Demo-Launch-818cf8?style=for-the-badge&logo=googlechrome"/></a>
-</td></tr>
+<tr><td><b>Stack</b></td><td>React.js · Node.js · Express.js · MongoDB · Razorpay API · Cloudinary CDN</td></tr>
+<tr><td><b>Scale</b></td><td>MERN microservices architecture with RBAC and cryptographic webhook processing</td></tr>
+<tr><td><b>Performance</b></td><td>Real-time CBT engine with client-side timers, question palette navigation & instant auto-grading</td></tr>
+<tr><td><b>Security</b></td><td>Razorpay payment gateway with HMAC-SHA256 webhook verification, dynamic coupon engine & RBAC</td></tr>
+<tr><td><b>Impact</b></td><td>Admin content studio with bulk MCQ parser, Cloudinary media uploads & multi-tier role authorization</td></tr>
+<tr><td><b>Repository</b></td><td><a href="https://github.com/praveenstp09/Pharmacode07">github.com/praveenstp09/Pharmacode07</a></td></tr>
 </table>
+
+**Key Engineering Highlights:**
+- Built real-time CBT testing engine with client-side state machine timers and instant auto-grading telemetry
+- Integrated Razorpay with HMAC-SHA256 cryptographic webhook verification and zero-latency access provisioning
+- Engineered admin content studio with bulk MCQ parser and Cloudinary CDN media pipeline
 
 </details>
 
+<details open>
+<summary><b>🛒 TechKart — Full Stack High-Performance E-Commerce Engine</b></summary>
 <br>
 
-<!-- Project 2 -->
-<details open>
-<summary>
-<b>🛒 TechKart</b> — High-Performance E-Commerce Engine
-<img src="https://img.shields.io/badge/MERN-ECOMMERCE-06b6d4?style=flat-square"/>
-</summary>
-<br>
+> A modern full-stack e-commerce platform engineered for ultra-fast product discovery, filtered navigation, and friction-free multi-item checkout workflows.
 
 <table>
-<tr><td colspan="2">Modern full-stack e-commerce platform with ultra-fast product discovery, filtered navigation, and friction-free checkout.</td></tr>
-<tr><td width="18%"><b>Stack</b></td><td><code>React.js</code> · <code>Node.js</code> · <code>MongoDB</code> · <code>JWT</code> · <code>BCrypt</code> · <code>Context API</code></td></tr>
-<tr><td><b>Highlights</b></td><td>
-🔍 Debounced search with compound-indexed MongoDB queries<br>
-🛒 Persistent cart state via React Context API<br>
-🔒 JWT-protected routes + BCrypt password hashing
-</td></tr>
-<tr><td><b>Links</b></td><td>
-<a href="https://github.com/praveenstp09/Ecommerce"><img src="https://img.shields.io/badge/Repository-View_Code-38bdf8?style=for-the-badge&logo=github"/></a>
-&nbsp;
-<a href="https://github.com/praveenstp09/Ecommerce"><img src="https://img.shields.io/badge/Live_Demo-Launch-818cf8?style=for-the-badge&logo=googlechrome"/></a>
-</td></tr>
+<tr><td><b>Stack</b></td><td>React.js · Node.js · Express.js · MongoDB · React Context API · JWT · BCrypt</td></tr>
+<tr><td><b>Scale</b></td><td>RESTful service layer with compound indexed database engine & persistent cart state</td></tr>
+<tr><td><b>Performance</b></td><td>Debounced product searches & multi-facet filtering via MongoDB compound indexing</td></tr>
+<tr><td><b>Security</b></td><td>JWT-protected routes, BCrypt password hashing & strict payload validation middleware</td></tr>
+<tr><td><b>Impact</b></td><td>Centralized cart state persistence across sessions with low-latency payload serialization</td></tr>
+<tr><td><b>Repository</b></td><td><a href="https://github.com/praveenstp09/Ecommerce">github.com/praveenstp09/Ecommerce</a></td></tr>
 </table>
+
+**Key Engineering Highlights:**
+- Implemented debounced searches and multi-facet filtering backed by MongoDB compound indexes and aggregation pipelines
+- Built persistent cart state via React Context API with JWT access tokens and salted BCrypt hashing
+- Optimized REST APIs with strict payload validation and sanitization middlewares
 
 </details>
 
-<br>
-
-<!-- Project 3 -->
 <details>
-<summary>
-<b>🛡️ Safai Mitra</b> — Enterprise Production Platform
-<img src="https://img.shields.io/badge/ENTERPRISE-LIVE-06b6d4?style=flat-square"/>
-</summary>
+<summary><b>🛡️ Safai Mitra — Enterprise Production Platform Contribution</b></summary>
 <br>
 
+> Live municipal operations & resource management system for tracking urban utility operations, citizen service escalations, and internal workforce assignments.
+
 <table>
-<tr><td colspan="2">Live municipal operations system for urban utility tracking, citizen escalations, and workforce management — built at <b>Dvertex Info System</b>.</td></tr>
-<tr><td width="18%"><b>Role</b></td><td>Full Stack Engineering Intern · July – Sept 2025</td></tr>
-<tr><td><b>Impact</b></td><td>
-🧩 Built 8+ reusable UI components for the design system<br>
-🔧 Multi-criteria filters, dynamic forms, async state sync<br>
-✅ Postman test suites across REST endpoints — zero regressions
-</td></tr>
+<tr><td><b>Stack</b></td><td>React.js · Node.js · Express.js · CSS3 · Postman · Agile Sprints</td></tr>
+<tr><td><b>Role</b></td><td>Full Stack Engineering Intern @ Dvertex Info System Pvt. Ltd.</td></tr>
+<tr><td><b>Impact</b></td><td>8+ reusable UI components, multi-criteria filters, dynamic forms & async state sync</td></tr>
+<tr><td><b>Testing</b></td><td>Postman automated test collections across REST endpoints — zero breaking regressions</td></tr>
 </table>
+
+**Key Engineering Highlights:**
+- Engineered 8+ reusable modular UI components for the company's internal design system
+- Redesigned critical operational screens with multi-criteria filters and real-time status forms
+- Formulated Postman automated testing collections ensuring zero breaking regressions
 
 </details>
 
-<img src="./assets/cyber-divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<!-- ═══ EXPERIENCE & EDUCATION ═══ -->
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh4bTA4M3FjdnF2dGZmZWxmOWVnNzRtZXk4Ym9zaWZ6aHlncnI4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FcOAV63ctnhGJLeAhC/giphy.gif" width="28"> &nbsp;Experience
 
-### 💼 Experience
+### <img src="https://img.shields.io/badge/Full_Stack_Developer_Intern-38bdf8?style=flat-square" /> &nbsp; Dvertex Info System Pvt. Ltd.
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  Dvertex Info System Pvt. Ltd.                              Noida, UP, India │
-│  Full Stack Developer Intern                           July 2025 – Sept 2025 │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<img align="right" src="https://img.shields.io/badge/Jul_2025_--_Sep_2025-6366f1?style=flat-square&labelColor=090d16" />
 
-* Built **8+ reusable React components** for the company's UI library
-* Shipped production features on **Safai Mitra** — filters, forms, async refreshes
-* Integrated REST APIs with comprehensive Postman validation
-* Resolved **10+ critical UI/state bugs** in Agile sprints
+> Full Stack Developer Intern working on the **Safai Mitra** product — contributing to enterprise-grade internal UI libraries and production feature development.
 
-<br>
+- Developed **8+ reusable UI components** for the company's internal UI component library
+- Improved product layouts across **3+ screens** — adding filters, form fields, and data update flows
+- Collaborated with the team to resolve **10+ UI bugs**, improving overall user experience across production screens
+- Integrated RESTful API endpoints with comprehensive Postman validation and error handling
 
-### 🎓 Education
+<p>
+  <img src="https://img.shields.io/badge/React.js-090d16?style=flat-square&logo=react&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Node.js-090d16?style=flat-square&logo=nodedotjs&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/REST_APIs-090d16?style=flat-square&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Agile_Sprints-090d16?style=flat-square&logoColor=38bdf8" />
+</p>
 
-<table width="100%">
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh6MmtyenV4YThodjZqemg3b2NpZm8yeHV4OTU5ZjhpYWNlN3k5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VaE5lsEk7s04GMM5AG/giphy.gif" width="28"> &nbsp;Achievements
+
+<table align="center">
+<thead>
 <tr>
-<td>
-<b>Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad</b><br>
-<i>B.Tech — Computer Science & Engineering</i><br>
-2022 – 2026 &nbsp;·&nbsp; CGPA: <b>8.15 / 10.0</b>
-</td>
-<td align="right">
-<img src="https://img.shields.io/badge/CGPA-8.15-38bdf8?style=for-the-badge&labelColor=090d16"/>
-</td>
+<th>Recognition</th>
+<th>Details</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td>🧠 <b>400+ DSA Problems Solved</b></td>
+<td>Solved across LeetCode & CodeChef — specializing in graphs, dynamic programming & binary search</td>
+</tr>
+<tr>
+<td>🚀 <b>Production Deployment</b></td>
+<td>Shipped live features on the Safai Mitra enterprise platform during internship at Dvertex Info System</td>
+</tr>
+<tr>
+<td>🐙 <b>GitHub Milestones</b></td>
+<td>Earned Pull Shark & YOLO GitHub achievement badges through collaborative Git workflows</td>
+</tr>
+<tr>
+<td>📜 <b>Full Stack Credentials</b></td>
+<td>Completed rigorous hands-on coursework in MERN Architecture, RESTful API design & DBMS</td>
+</tr>
+</tbody>
 </table>
 
-<img src="./assets/cyber-divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<!-- ═══ ACHIEVEMENTS ═══ -->
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh2aHF2YWNreHdvNW5kd2Z4eWtibW5kMHpzdzdkcHI5YjNjcnFsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nDWTYlOLJr3ImZuCqW/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
-### 🏆 Achievements
+<p align="center">
+  <a href="https://github.com/praveenstp09">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=praveenstp09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&ring_color=38bdf8" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenstp09&theme=tokyonight&hide_border=true&background=090d16&stroke=38bdf8&ring=818cf8&fire=38bdf8&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=38bdf8&sideNums=38bdf8&dates=6366f1" alt="GitHub Streak" />
+  </a>
+</p>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/trophy.png" width="40"/><br>
-<b>400+ DSA</b><br>
-<sub>LeetCode & CodeChef</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/rocket.png" width="40"/><br>
-<b>Production Ship</b><br>
-<sub>Safai Mitra Platform</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/medal.png" width="40"/><br>
-<b>Pull Shark</b><br>
-<sub>GitHub Achievement</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/star.png" width="40"/><br>
-<b>YOLO Badge</b><br>
-<sub>GitHub Achievement</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/praveenstp09">
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenstp09&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
 
-<img src="./assets/cyber-divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<!-- ═══ GITHUB ANALYTICS ═══ -->
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlwaXNhdmZuN3gxY2xnMmswcDJzbWZ2YjdwNTJhdHM0Y2NwMHd3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8FM8uSSg5ck0QJbExc/giphy.gif" width="28"> &nbsp;GitHub Trophies
 
-<img src="./assets/header-stats.svg" width="100%" alt="GitHub Analytics"/>
+<p align="center">
+  <a href="https://github.com/praveenstp09">
+    <img src="https://github-trophies.vercel.app/?username=praveenstp09&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<br>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<div align="center">
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;Contribution Activity
 
-<!-- Stats + Streak side by side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=praveenstp09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&border_radius=12&include_all_commits=true&count_private=false"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenstp09&theme=tokyonight&hide_border=true&background=090d16&stroke=1e293b&ring=38bdf8&fire=818cf8&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=38bdf8&sideNums=38bdf8&dates=64748b&border_radius=12"/>
+<p align="center">
+  <a href="https://github.com/praveenstp09">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenstp09&bg_color=090d16&color=38bdf8&line=818cf8&point=94a3b8&area=true&area_color=1e1b4b&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph" />
+  </a>
+</p>
 
-<br><br>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<!-- Trophy card -->
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=praveenstp09&theme=discordian&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SECRET,SECRET,SECRET"/>
+## <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="28"> &nbsp;Contribution Snake
 
-<br><br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praveenstp09/praveenstp09/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praveenstp09/praveenstp09/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+  </picture>
+</p>
 
-<!-- Top languages -->
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenstp09&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=94a3b8&langs_count=8&border_radius=12"/>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<br><br>
-
-<!-- Activity graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=praveenstp09&bg_color=090d16&color=38bdf8&line=818cf8&point=38bdf8&area=true&area_color=1e1b4b&hide_border=true&custom_title=Contribution%20Activity%20Graph"/>
-
-<br><br>
-
-<!-- Contribution snake (auto-generated by GitHub Action) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praveenstp09/praveenstp09/output/github-snake-dark.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/output/github-snake.svg"/>
-</picture>
-
-</div>
-
-<img src="./assets/cyber-divider.svg" width="100%" alt="divider"/>
-
-<!-- ═══ ROADMAP ═══ -->
-
-### 🛰️ Currently Building
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BsdjE5NTA1bjk1MXZ1eDN5YnEzcWVwOGgzZDBnc2ZuNnM0N3R5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SaYPZtUmtxbYgbNTeH/giphy.gif" width="28"> &nbsp;Current Focus
 
 ```yaml
+Learning:
+  - Distributed System Design & Microservice Scalability
+  - Asynchronous Event Pipelines (Redis Queues & Pub/Sub)
+  - Advanced Database Sharding & Read-Replica Architectures
+
 Building:
   - PharmaCode07 v2.0 with WebSocket test proctoring
   - Payment webhook reconciliation workers
   - Storybook + Tailwind component library
 
-Learning:
-  - Distributed system design & microservices
-  - Redis queues & pub/sub event pipelines
-  - Database sharding & read-replica architectures
-
 Exploring:
-  - Next.js 14 App Router & SSR streaming
-  - GraphQL federation for microservices
-  - Docker + CI/CD automation
+  - Next.js 14 App Router with Server-Side Rendering
+  - GraphQL Federation for microservices
+  - Docker containerization for CI/CD deployment
 
-Open For:
-  - Full-Time SDE Roles (Graduating May 2026)
-  - Full Stack & Backend opportunities
-  - Open source collaborations
+Open To:
+  - Full-Time Software Development Engineer (SDE) Roles
+  - Full Stack Engineer & Backend Systems Opportunities
+  - Open Source Engineering Collaborations
 ```
 
-<img src="./assets/cyber-divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<!-- ═══ CONTACT CTA ═══ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="mailto:praveenverma0933@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-praveenverma0933@gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090d16" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/praveen-verma-b90333282/">
+    <img src="https://img.shields.io/badge/LinkedIn-Praveen_Verma-6366f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090d16" alt="LinkedIn" />
+  </a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,a855f7,6366f1,38bdf8&height=100&section=footer&fontSize=24&fontColor=fff&animation=twinkling&text=Let's%20Build%20Something%20Amazing%20Together!"/>
+<p align="center">
+  <a href="https://github.com/praveenstp09">
+    <img src="https://img.shields.io/badge/GitHub-praveenstp09-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=090d16" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/praveenstp09/">
+    <img src="https://img.shields.io/badge/LeetCode-400%2B_Solved-06b6d4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=090d16" alt="LeetCode" />
+  </a>
+</p>
 
-<br>
+<img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/assets/cyan-line-animated.svg" width="100%">
 
-<h3>Looking for a production-ready Full Stack Engineer?</h3>
-<p>Whether you're hiring, building a product, or discussing architecture — my inbox is always open.</p>
+<p align="center">
+  <i>"I architect resilient, high-throughput full-stack systems that translate complex logic into seamless, high-performance products."</i>
+</p>
 
-<a href="mailto:praveenverma0933@gmail.com"><img src="https://img.shields.io/badge/Email_Me-Contact-38bdf8?style=for-the-badge&logo=gmail&logoColor=090d16&labelColor=0f172a"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/praveen-verma-b90333282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-818cf8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/></a>
-&nbsp;
-<a href="https://leetcode.com/u/praveenstp09/"><img src="https://img.shields.io/badge/LeetCode-Profile-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a"/></a>
-&nbsp;
-<a href="https://github.com/praveenstp09"><img src="https://img.shields.io/badge/GitHub-Follow-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/></a>
-
-<br><br>
-
-<sub>Designed & Engineered by <b>Praveen Verma</b> · Powered by Clean Architecture & Scalable Code</sub>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e1b4b,100:38bdf8&height=120&section=footer" width="100%" />
+</p>
