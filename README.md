@@ -4,8 +4,8 @@
 *Noida, India · Open for Full-Time Software Engineering & Full Stack Roles (2026)*
 
 <p align="left">
-  <a href="https://techkart-nine.vercel" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-090d16?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
-  &nbsp;
+  <!-- <a href="https://techkart-nine.vercel" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-090d16?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
+  &nbsp; -->
   <a href="https://www.linkedin.com/in/praveen-verma09/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-praveen--verma09-090d16?style=flat-square&logo=linkedin&logoColor=6366f1" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://leetcode.com/u/praveen0903/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-praveen0903-090d16?style=flat-square&logo=leetcode&logoColor=f59e0b" alt="LeetCode" /></a>
@@ -45,7 +45,7 @@ I build full-stack web applications with a focus on **scalable backend architect
 ### 02 / TechKart — High-Throughput E-Commerce Platform
 > An electronic commerce platform architected for fast catalog discovery, filtered search queries, and persistent multi-item checkout.
 
-**[ ↗ Launch Storefront ](https://techkart-nine.vercel.app/)** &nbsp;•&nbsp; **[ ⌥ View Repository ](https://github.com/praveenstp09/TechKart)**  
+**[ ↗ Launch Storefront ](https://fullecommerce-omega.vercel.app/login)** &nbsp;•&nbsp; **[ ⌥ View Repository ](https://github.com/praveenstp09/TechKart)**  
 `React.js` · `Node.js` · `Express.js` · `MongoDB` · `React Context API` · `JWT` · `BCrypt`
 
 * **Low-Latency Search**: Debounced search inputs and multi-facet filtering backed by MongoDB compound indexing and aggregation pipelines.
