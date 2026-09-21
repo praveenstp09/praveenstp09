@@ -62,9 +62,9 @@ I build full-stack web applications with a focus on **scalable backend architect
   </a>
 </p>
 
-* **Languages**: JavaScript (ES6+), TypeScript, Java, C++, C#, C
-* **Frontend**: React.js, Next.js, Tailwind CSS, HTML5, CSS3, Bootstrap
-* **Backend & APIs**: Node.js, Express.js, RESTful APIs, ASP.NET Core, GraphQL
+* **Languages**: JavaScript (ES6+), TypeScript, Java, C
+* **Frontend**: React.js, Next.js, Tailwind CSS, HTML5, CSS3
+* **Backend & APIs**: Node.js, Express.js, RESTful APIs
 * **Databases & Storage**: MongoDB, PostgreSQL, MySQL, Cloudinary CDN
 * **Tools & Platforms**: Git, GitHub, Postman, VS Code, Vercel, Render
 
