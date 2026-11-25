@@ -49,9 +49,9 @@ Currently completing my CS degree and open to full-time Software Engineer (SDE) 
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praveenstp09/praveenstp09/main/output/github-snake.svg" />
-  <img src="./output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praveenstp09/praveenstp09/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praveenstp09/praveenstp09/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/praveenstp09/praveenstp09/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
   </picture>
 </p>
 
